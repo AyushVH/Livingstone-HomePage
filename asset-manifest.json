@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AyushVH/Livingstone-HomePage/static/css/main.bd68e113.css",
-    "main.js": "/AyushVH/Livingstone-HomePage/static/js/main.a0d9e487.js",
-    "static/js/787.22a05dae.chunk.js": "/AyushVH/Livingstone-HomePage/static/js/787.22a05dae.chunk.js",
-    "static/media/HomeBg.jpg": "/AyushVH/Livingstone-HomePage/static/media/HomeBg.6255115ff729af4503f4.jpg",
-    "index.html": "/AyushVH/Livingstone-HomePage/index.html",
-    "main.bd68e113.css.map": "/AyushVH/Livingstone-HomePage/static/css/main.bd68e113.css.map",
-    "main.a0d9e487.js.map": "/AyushVH/Livingstone-HomePage/static/js/main.a0d9e487.js.map",
-    "787.22a05dae.chunk.js.map": "/AyushVH/Livingstone-HomePage/static/js/787.22a05dae.chunk.js.map"
+    "main.css": "/Livingstone-HomePage/static/css/main.9cbce202.css",
+    "main.js": "/Livingstone-HomePage/static/js/main.d343092c.js",
+    "static/js/787.22a05dae.chunk.js": "/Livingstone-HomePage/static/js/787.22a05dae.chunk.js",
+    "static/media/HomeBg.jpg": "/Livingstone-HomePage/static/media/HomeBg.6255115ff729af4503f4.jpg",
+    "index.html": "/Livingstone-HomePage/index.html",
+    "main.9cbce202.css.map": "/Livingstone-HomePage/static/css/main.9cbce202.css.map",
+    "main.d343092c.js.map": "/Livingstone-HomePage/static/js/main.d343092c.js.map",
+    "787.22a05dae.chunk.js.map": "/Livingstone-HomePage/static/js/787.22a05dae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd68e113.css",
-    "static/js/main.a0d9e487.js"
+    "static/css/main.9cbce202.css",
+    "static/js/main.d343092c.js"
   ]
 }
